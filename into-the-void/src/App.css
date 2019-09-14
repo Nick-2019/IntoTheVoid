@@ -9,6 +9,8 @@
 }
 
 .App-header {
+  background-image: url("https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif");
+  background-repeat: no-repeat;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
